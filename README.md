@@ -23,7 +23,6 @@ Lord of Dogz
 
 c4RrOT
 
-
 # Special Thanks
 
 Kat Purpy
