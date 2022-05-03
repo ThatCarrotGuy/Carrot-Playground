@@ -15,20 +15,20 @@ Scripts and Assets are free to use under the Apache 2.0 License.
 
 # Game created by
 
-c4RrOT 
-Vemmy
-Lord of Dogz
+* c4RrOT 
+* Vemmy
+* Lord of Dogz
 
 # Playground by
 
-c4RrOT
+* c4RrOT
 
 # Special Thanks
 
-Kat Purpy
-Lunatical Dev
-Skled
-Brackeys
+* Kat Purpy
+* Lunatical_Dev
+* Skled
+* Brackeys
 
 ## Get the original game here!
 https://c4rrot.itch.io/remastered
